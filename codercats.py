@@ -4,9 +4,9 @@ app = Flask("MyApp")
 
 @app.route("/")
 def hello():
-  return "Hi Marc!"
+  return "Hi Codercats"
 
-@app.route("/<name>")
+@app.route("/codercats")
 def hello_someone(name):
   return render_template("hello.html", name=name.title())
 
