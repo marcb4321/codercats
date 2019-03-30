@@ -1,11 +1,11 @@
+body {
+  background-color: SteelBlue;
+}
+
 h1 {
   font-family: Arial, sans-serif;
   color: blue;
   margin-right: 20px;
-}
-
-body {
-  background-color: SteelBlue;
 }
 
 p{
