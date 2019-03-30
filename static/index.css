@@ -1,15 +1,17 @@
 h1 {
   font-family: Arial, sans-serif;
   color: blue;
+  margin-right: 20px;
 }
 
 body {
-  background-color: teal;
+  background-color: SteelBlue;
 }
 
 p{
   font-family: Arial, sans-serif;
   color: pink;
+  margin-right: 20px;
 }
 
 nav ul {
