@@ -1,12 +1,13 @@
 h1 {
   font-family: Arial, sans-serif;
+  color: blue;
 }
 
 body {
-  background-color: pink;
+  background-color: teal;
 }
 
-p {
+p{
   font-family: Arial, sans-serif;
   color: blue;
 }
