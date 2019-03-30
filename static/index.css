@@ -3,10 +3,10 @@ h1 {
 }
 
 body {
-  background-color: blue;
+  background-color: pink;
 }
 
 #contact-form {
   font-family: Arial, sans-serif;
-  color: blue;
+  color: red;
 }
