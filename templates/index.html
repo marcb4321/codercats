@@ -19,20 +19,21 @@
     <title>Codercats</title>
   </head>
 
-  <body>
-    {% include "header.html" %}
+<body>
+  {% include "header.html" %}
 
 
     <h1>Codercats</h1>
 
+    {% if user %}
+      <h1>Hello {{ user }}</h1>
+    {% else %}
+      <h1>Hello!</h1>
+    {% endif %}
+
     <p> Let's keep in touch! </p>
 
-{% if user %}
-  <h1>Hello {{ user }}</h1>
-{% else %}
-  <h1>Hello!</h1>
-{% endif %}
 
-  {% include "footer.html" %}
+{% include "footer.html" %}
 </body>
 </html>
