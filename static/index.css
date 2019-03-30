@@ -6,7 +6,7 @@ body {
   background-color: pink;
 }
 
-#contact-form {
+p {
   font-family: Arial, sans-serif;
-  color: red;
+  color: blue;
 }
