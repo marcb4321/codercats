@@ -11,8 +11,10 @@
     overflow: hidden;
     top: 0;
     left: 0;
+}
 
-    display: flex;
+#bs-example-navbar-collapse-1 {
+    display: flex-end;
     flex-direction: row;
 }
 
