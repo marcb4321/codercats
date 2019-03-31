@@ -6,12 +6,14 @@ h1 {
   font-family: Arial, sans-serif;
   color: MidnightBlue;
   margin-right: 20px;
+  padding: 30px;
 }
 
 p{
   font-family: Arial, sans-serif;
   color: pink;
   margin-right: 20px;
+  padding: 30px;
 }
 
 nav ul {
